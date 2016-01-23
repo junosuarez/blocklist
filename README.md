@@ -6,3 +6,4 @@ unfortunately, not every github user is a nice person. fortunately, many online 
 - @950c
 - @malandrew
 - @ddd
+- @samshadwell
