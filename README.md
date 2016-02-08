@@ -7,3 +7,4 @@ unfortunately, not every github user is a nice person. fortunately, many online 
 - @malandrew
 - @ddd
 - @samshadwell
+- any of [these charming fellers](https://github.com/domgetter/NCoC/stargazers?page=3)
